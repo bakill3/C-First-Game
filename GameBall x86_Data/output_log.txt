@@ -1,0 +1,44 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\GETween.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.524890 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d6c8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.547113 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.284889 ms (FindLiveObjects: 0.049333 ms CreateObjectMapping: 0.028888 ms MarkObjects: 0.186222 ms  DeleteObjects: 0.019555 ms)
+
+Platform assembly: C:\Users\deost\Desktop\backup da pen\GABRIEL\UNITY PROJECTOS\jogo basico\GameBall x86_Data\Managed\Boo.Lang.dll (this message is harmless)
